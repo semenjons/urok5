@@ -1,0 +1,15 @@
+C:\УЧЕБА\ДЗ\urok5\summelem\bin\Debug\net6.0\summelem.exe
+C:\УЧЕБА\ДЗ\urok5\summelem\bin\Debug\net6.0\summelem.deps.json
+C:\УЧЕБА\ДЗ\urok5\summelem\bin\Debug\net6.0\summelem.runtimeconfig.json
+C:\УЧЕБА\ДЗ\urok5\summelem\bin\Debug\net6.0\summelem.dll
+C:\УЧЕБА\ДЗ\urok5\summelem\bin\Debug\net6.0\summelem.pdb
+C:\УЧЕБА\ДЗ\urok5\summelem\obj\Debug\net6.0\summelem.csproj.AssemblyReference.cache
+C:\УЧЕБА\ДЗ\urok5\summelem\obj\Debug\net6.0\summelem.GeneratedMSBuildEditorConfig.editorconfig
+C:\УЧЕБА\ДЗ\urok5\summelem\obj\Debug\net6.0\summelem.AssemblyInfoInputs.cache
+C:\УЧЕБА\ДЗ\urok5\summelem\obj\Debug\net6.0\summelem.AssemblyInfo.cs
+C:\УЧЕБА\ДЗ\urok5\summelem\obj\Debug\net6.0\summelem.csproj.CoreCompileInputs.cache
+C:\УЧЕБА\ДЗ\urok5\summelem\obj\Debug\net6.0\summelem.dll
+C:\УЧЕБА\ДЗ\urok5\summelem\obj\Debug\net6.0\refint\summelem.dll
+C:\УЧЕБА\ДЗ\urok5\summelem\obj\Debug\net6.0\summelem.pdb
+C:\УЧЕБА\ДЗ\urok5\summelem\obj\Debug\net6.0\summelem.genruntimeconfig.cache
+C:\УЧЕБА\ДЗ\urok5\summelem\obj\Debug\net6.0\ref\summelem.dll
